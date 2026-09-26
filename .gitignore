@@ -1,0 +1,223 @@
+###############################################################################
+# BUILD & COMPILATION OUTPUT
+###############################################################################
+
+# Build Directories
+build/
+Build/
+cmake-build-*/
+out/
+bin/
+lib/
+dist/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+CTestTestfile.cmake
+install_manifest.txt
+Makefile
+
+# Ninja Build System
+.ninja_deps
+.ninja_log
+build.ninja
+
+# Make
+*.make
+*.mk
+
+###############################################################################
+# COMPILED & OBJECT FILES
+###############################################################################
+
+# Object Files
+*.o
+*.obj
+*.lo
+*.la
+*.slo
+
+# Libraries
+*.a
+*.lib
+*.dll
+*.dylib
+*.so
+*.exp
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# LLVM / Clang
+*.bc
+*.ll
+
+###############################################################################
+# DEBUG & PROFILING
+###############################################################################
+
+# Debug Symbols
+*.dSYM/
+*.pdb
+
+# Profiling & Coverage
+gmon.out
+callgrind.out.*
+cachegrind.out.*
+*.gcda
+*.gcno
+*.gcov
+coverage/
+htmlcov/
+lcov.info
+*.profraw
+*.profdata
+
+###############################################################################
+# IDE & EDITOR CONFIGURATIONS
+###############################################################################
+
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+*.sdf
+*.opensdf
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# JetBrains (CLion / IntelliJ)
+.idea/
+*.iml
+
+# Xcode
+DerivedData/
+*.xcworkspace
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+
+# Eclipse / Code::Blocks / Qt Creator
+.project
+.cproject
+.settings/
+*.cbp
+*.layout
+*.depend
+*.pro.user
+*.pro.user.*
+*.qbs.user
+
+###############################################################################
+# PACKAGE MANAGERS & DEPENDENCIES
+###############################################################################
+
+# Conan
+conanbuild/
+conan.lock
+
+# vcpkg
+.vcpkg/
+vcpkg_installed/
+
+# Python Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+.python-version
+
+###############################################################################
+# PYTHON (If applicable)
+###############################################################################
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+.pytest_cache/
+.tox/
+.nox/
+.mypy_cache/
+.pyre/
+.pytype/
+.ruff_cache/
+.ipynb_checkpoints/
+
+###############################################################################
+# LOGS & TEMPORARY FILES
+###############################################################################
+
+*.log
+*.tmp
+*.temp
+*.bak
+*.orig
+*.rej
+*~
+*.swp
+*.swo
+*.pid
+*.seed
+*.stackdump
+
+###############################################################################
+# ENVIRONMENT & CONFIGURATION
+###############################################################################
+
+.env
+.env.*
+.cache/
+.cache-loader/
+.history/
+
+###############################################################################
+# DOCUMENTATION
+###############################################################################
+
+docs/html/
+docs/latex/
+Doxyfile.bak
+
+###############################################################################
+# ARCHIVES
+###############################################################################
+
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+
+###############################################################################
+# OPERATING SYSTEM FILES
+###############################################################################
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+###############################################################################
+# COMPETITIVE PROGRAMMING (Optional)
+###############################################################################
+
+.cph/
