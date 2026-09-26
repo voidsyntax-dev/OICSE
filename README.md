@@ -31,7 +31,6 @@ The curriculum is modular, implementation-oriented, and suitable for both formal
 
 The curriculum is guided by six foundational principles:
 
-* **Mathematics as the Language of Computing**
 * **Algorithmic Thinking and Computational Problem Solving**
 * **First-Principles Computer Science**
 * **Artificial Intelligence as the Culmination of Computer Science**
@@ -46,7 +45,6 @@ Rather than relying on existing frameworks or software abstractions, students pr
 
 Graduates of this curriculum will develop:
 
-* Strong mathematical and analytical reasoning
 * Algorithmic problem-solving skills
 * Fundamental knowledge of computer systems
 * First-principles understanding of Artificial Intelligence
@@ -58,12 +56,13 @@ Graduates of this curriculum will develop:
 
 # Semester I
 
-| Code  | Course                                        |
-| :---: | --------------------------------------------- |
-| CS101 | Programming with Modern C++                   |
-| CS102 | Data Structures and Algorithm                 |
-| CS103 | Programming with Python                       | 
-|       | Project Part - 1                              | 
+| Code  | Course                                          |
+| :---: | ---------------------------------------------   |
+| CS100 | Introduction to Computer Architecture           |
+| CS101 | Computational Thinking & Problem Solving in C++ |
+| CS102 | Programming with Python                         | 
+| CS103 | Introduction to Data Structures & Algorithms    |
+|       | Project Part - 1                                | 
 
 ---
 
