@@ -59,9 +59,8 @@ Graduates of this curriculum will develop:
 | Code  | Course                                          |
 | :---: | ---------------------------------------------   |
 | CS100 | Introduction to Computer Architecture           |
-| CS101 | Computational Thinking & Problem Solving in C++ |
-| CS102 | Programming with Python                         | 
-| CS103 | Introduction to Data Structures & Algorithms    |
+| CS101 | Programming with Python                         | 
+| CS102 | Introduction to Data Structures & Algorithms    |
 |       | Project Part - 1                                | 
 
 ---
