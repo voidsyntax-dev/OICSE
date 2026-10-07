@@ -1,4 +1,4 @@
-message = "Hello, world!!!"
+message = "Hello, world!"
 print(message)
-message = "Goodbye, world!!"
+message = "Goodbye, world!"
 print(message)
